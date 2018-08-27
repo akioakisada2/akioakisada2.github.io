@@ -3,3 +3,5 @@ function inject() {
 	img.src="img/fakecaptcha.png";
 	document.body.appendChild(img);
 }
+
+inject();
