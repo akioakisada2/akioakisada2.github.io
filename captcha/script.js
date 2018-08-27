@@ -1,6 +1,6 @@
 function inject() {
 	var img = document.createElement(img);
-	img.src="img/fakecaptcha.png";
+	img.src="img/fakecaptcha.PNG";
 	img.class="captcha"
 	document.body.appendChild(img);
 }
